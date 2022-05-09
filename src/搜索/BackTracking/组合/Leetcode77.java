@@ -1,4 +1,4 @@
-package 搜索.BackTracking;
+package 搜索.BackTracking.组合;
 
 import java.util.ArrayList;
 import java.util.Arrays;

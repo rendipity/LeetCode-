@@ -1,4 +1,4 @@
-package 搜索.BackTracking;
+package 搜索.BackTracking.排列;
 
 import java.util.*;
 
