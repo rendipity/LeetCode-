@@ -1,6 +1,6 @@
-package 动态规划;
+package 动态规划.斐波拉契数列;
 
-public class Leetcode198 {
+public class Leetcode198_houseRobber_I {
     public int rob(int[] nums) {
         if (nums.length==1)
             return nums[0];
@@ -15,7 +15,7 @@ public class Leetcode198 {
 
     public static void main(String[] args) {
         int[] nums={0};
-        Leetcode198 l=new Leetcode198();
+        Leetcode198_houseRobber_I l=new Leetcode198_houseRobber_I();
         System.out.println(l.rob(nums));
     }
 }

@@ -1,4 +1,4 @@
-package 动态规划;
+package 动态规划.斐波拉契数列;
 
 public class Leetcode70_climbStairs {
     public int climbStairs(int n) {
